@@ -83,7 +83,7 @@ A responsive calculator supporting all basic arithmetic operations with a clean 
 📧 Email: **parthdhone827@gmail.com**
 
 💼 LinkedIn:
-https://www.linkedin.com/in/https://www.linkedin.com/in/parth-dhone-74b568340/
+https://www.linkedin.com/in/https://www.linkedin.com/in/parth-dhone
 
 🐙 GitHub:
 https://github.com/parthvasantdhone
